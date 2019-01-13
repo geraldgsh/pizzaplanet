@@ -1,6 +1,6 @@
 # A Codecademy exercise
 
-A single page AngularJS app for their scoreboard that shows food served in restaurant.
+A single page AngularJS app that shows food served in restaurant.
 
 # Setting up AngularJS development environment on Windows
 
